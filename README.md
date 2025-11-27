@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-A collection of my LeetCode problem solutions and implementations.
+A collection of my LeetCode problem solutions and implementations all in C++.
 
 ## Overview
 
